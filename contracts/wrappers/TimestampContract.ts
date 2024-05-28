@@ -1,0 +1,1 @@
+export * from '../build/TimestampContract/tact_TimestampContract';
